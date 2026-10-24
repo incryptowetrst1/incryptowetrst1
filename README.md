@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>
+  <img align="right" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dethereum%26vs_currencies%3Dusd&query=%24.ethereum.usd&prefix=%24&label=ETH&color=627eea&style=flat-square" alt="ETH Price" />
+  <img align="right" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC&color=f7931a&style=flat-square" alt="BTC Price" />
+  Hello
+</h1>
 
-<!--
-**incryptowetrst1/incryptowetrst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- **Education:** Applied Mathematics, HSE MIEM (Graduation: 2030).
+- **Focus:** Software Engineering & Data Analytics.
+- **Background:** Gazprom Math Olympiad prize-winner.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c,python,git&theme=dark" alt="Tech Stack" />
+
+---
+
+### Contacts
+
+&nbsp;&nbsp;<a href="https://t.me/ncrptwtrst1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;&nbsp;<a href="mailto:incryptowetrst@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
